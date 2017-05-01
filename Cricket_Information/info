@@ -1,0 +1,9 @@
+This Application is for the cricket lovers who wants to see the records of the cricket players in different formats (Test cricket, ODI and T20).
+The Application used "http://www.cricapi.com/" site for taking data in the form of JSON.
+The Application follows MVC model.
+Technology used to make the application:-
+  1. AngularJS
+  2. HTML
+  3. CSS
+  4. JavaScript
+  
